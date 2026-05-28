@@ -7,3 +7,7 @@ very basic rn, only takes 5 frames which is a bummer
 check out the wiring for it [here](https://wokwi.com/projects/464949943784724481)
 
 edit the convert.py to change the video location and such
+
+pull requests would be appreciated if you know how to make it store any more frames.. maybe lower resolution? idk
+
+but yea
